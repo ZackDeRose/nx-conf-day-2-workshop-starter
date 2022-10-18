@@ -1,0 +1,20 @@
+{
+  "migrations": [
+    {
+      "version": "0.1.10",
+      "description": "Complete Lab 10",
+      "cli": "nx",
+      "implementation": "./src/migrations/complete-lab-10/complete-lab-10",
+      "package": "@nrwl/nx-workshop",
+      "name": "complete-lab-10"
+    },
+    {
+      "version": "0.1.11",
+      "description": "Complete Lab 11",
+      "cli": "nx",
+      "implementation": "./src/migrations/complete-lab-11/complete-lab-11",
+      "package": "@nrwl/nx-workshop",
+      "name": "complete-lab-11"
+    }
+  ]
+}
